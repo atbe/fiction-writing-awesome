@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Fiction Writing
 
-You can use the [editor on GitHub](https://github.com/atbe/fiction-writing-awesome/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, welcome to the `Fiction Writing` Clubhouse room repo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Prompts
 
-### Markdown
+### Forums
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/)
 
-```markdown
-Syntax highlighted code block
+### Websites
 
-# Header 1
-## Header 2
-### Header 3
+### Books
 
-- Bulleted
-- List
+- [What If? Writing Exercises for Fiction Writers](https://www.amazon.com/What-Writing-Exercises-Fiction-Writers/dp/0062720066) by Anne Bernays
+- [The 3 A.M. Epiphany: Uncommon Writing Exercises that Transform Your Fiction](https://www.amazon.com/M-Epiphany-Uncommon-Exercises-Transform/dp/1582973512/ref=pd_lpo_14_t_1/147-1790123-3275943) by Brian Kiteley
+- [Steering the Craft: A Twenty-First-Century Guide to Sailing the Sea of Story](https://www.amazon.com/dp/B00T2414SC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Ursula K. Le Guin
 
-1. Numbered
-2. List
+### Random
 
-**Bold** and _Italic_ and `Code` text
+> A chicken who can’t lay eggs anymore
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atbe/fiction-writing-awesome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> A snowday in Egypt
